@@ -1,6 +1,8 @@
 # Memoteca
 
 Curso: https://cursos.alura.com.br/course/angular-explorando-framework
+
+
 Figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148-26&mode=design&t=GrNf3eHLvOJckdxV-0
 
 ## O que foi aprendido:
