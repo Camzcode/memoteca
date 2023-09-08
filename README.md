@@ -17,3 +17,7 @@ Figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---A
 - Escutar eventos do template e fazer a chamada de métodos no component com o event binding
 - Usar a diretiva ngModel que pertence ao FormsModule para a comunicação bidirecional entre component e template
 - Como funcionam os diferentes tipos de comunicação entre component e template
+- Utilizar o RouterModule;
+- Utilizar a diretiva <router-outlet>;
+- Criar e configurar rotas;
+- Navegar por meio da propriedade routerLink.
