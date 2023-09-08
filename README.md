@@ -21,3 +21,6 @@ Figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---A
 - Utilizar a diretiva <router-outlet>;
 - Criar e configurar rotas;
 - Navegar por meio da propriedade routerLink.
+- Tipos diferentes de diretivas;
+- Utilizar diretivas estruturais incluindo e excluindo elementos com ngFor e ngIf;
+- Utilizar expressões para estilizar elementos com ngClass.
