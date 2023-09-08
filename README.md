@@ -24,3 +24,7 @@ Figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---A
 - Tipos diferentes de diretivas;
 - Utilizar diretivas estruturais incluindo e excluindo elementos com ngFor e ngIf;
 - Utilizar expressões para estilizar elementos com ngClass.
+- Utilizar o JSON-Server simulando uma API REST;
+- Criar uma interface para definir tipos personalizados;
+- Entender a importância do Service e o novo decorator @Injectable();
+- Injetar dependências.
