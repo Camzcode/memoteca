@@ -28,3 +28,7 @@ Figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---A
 - Criar uma interface para definir tipos personalizados;
 - Entender a importância do Service e o novo decorator @Injectable();
 - Injetar dependências.
+- Utilizar métodos de requisição HTTP com serviço HttpClient;
+- Utilizar o Observable no retorno dos métodos HTTP;
+- Capturar parâmetros em rotas;
+- Criar um CRUD.
