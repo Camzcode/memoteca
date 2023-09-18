@@ -36,3 +36,8 @@ Figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---A
 - Associar o formulário criado no component ao template através da diretiva formGroup;
 - Utilizar a diretiva formControlName para associar os inputs do formulário;
 - Acessar os valores dos campos do formulário no template com o método get.
+- Implementar validações nos campos do formulário através da classe Validators;
+- Identificar os tipos de erros que ocorreram nas validações;
+- Exibir mensagens de erro customizadas;
+- Mostrar mensagens de erro apenas quando o campo for acessado;
+- Habilitar/desabilitar o botão de salvar de acordo com o status do formulário.
