@@ -32,3 +32,7 @@ Figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---A
 - Utilizar o Observable no retorno dos métodos HTTP
 - Capturar parâmetros em rotas
 - Criar um CRUD
+- Criar um formulário reativo através da classe FormBuilder;
+- Associar o formulário criado no component ao template através da diretiva formGroup;
+- Utilizar a diretiva formControlName para associar os inputs do formulário;
+- Acessar os valores dos campos do formulário no template com o método get.
